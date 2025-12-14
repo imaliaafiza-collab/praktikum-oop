@@ -26,3 +26,5 @@ echo "Sebelum: " . $ebook->author . PHP_EOL;
 
 $ebook->changeAuthor("Sari");
 echo "Sesudah: " . $ebook->author . PHP_EOL;
+
+
